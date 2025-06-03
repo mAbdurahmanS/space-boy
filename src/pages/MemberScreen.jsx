@@ -4,7 +4,7 @@ const teamMembers = [
   {
     name: "Muhamad Zhaky Alamsyah",
     studentId: "00000130569",
-    photo: "/Zhaky.jpg",
+    photo: "Zhaky.jpg",
   },
   {
     name: "Haikal Budiawan",
@@ -14,7 +14,7 @@ const teamMembers = [
   {
     name: "Khairiansyah Hafizh",
     studentId: "00000128661",
-    photo: "/Hafizh.jpg",
+    photo: "Hafizh.jpg",
   },
   // Add more team members as needed
 ];

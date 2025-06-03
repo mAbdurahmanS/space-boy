@@ -5,7 +5,7 @@ export default function StartScreen({ onStart, onViewMembers }) {
     <div
       className="min-h-screen flex flex-col justify-between items-center text-[#F8EDFF] font-['Orbitron'] px-4 py-8 bg-cover bg-center"
       style={{
-        backgroundImage: "url('/startbackground.jpg')",
+        backgroundImage: "url('startbackground.jpg')",
       }}
     >
       {/* Top spacing */}

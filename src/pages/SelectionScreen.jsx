@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useGame } from "../context/GameContext";
 
-const avatars = ["/avatar1.png", "/avatar2.png", "/avatar3.png"];
+const avatars = ["avatar1.png", "avatar2.png", "avatar3.png"];
 
 export default function SelectionScreen({ onStartGame, onNavigateToStart }) {
   const [name, setName] = useState("");
@@ -22,7 +22,7 @@ export default function SelectionScreen({ onStartGame, onNavigateToStart }) {
     <div
       className="min-h-screen bg-cover bg-center"
       style={{
-        backgroundImage: "url('/selectionbackground.jpg')",
+        backgroundImage: "url('selectionbackground.jpg')",
       }}
     >
       <header className="w-svw flex justify-between items-center md:relative md:justify-start py-4 px-8 mb-4">
