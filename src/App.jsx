@@ -69,7 +69,7 @@ function MainGameFlow() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/space-boy">
       <Routes>
         {/* Game utama (mode lama) */}
         <Route path="/v1" element={<MainGameFlow />} />
