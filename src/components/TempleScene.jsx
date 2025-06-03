@@ -204,7 +204,7 @@ export default function TempleScene({ onBack }) {
           style={{
             // aspectRatio: "1440 / 1464",
             // backgroundColor: getMapColor(),
-            backgroundImage: `url(/temple.png)`,
+            backgroundImage: `url(temple.png)`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             // transition: "background-color 0.5s ease",

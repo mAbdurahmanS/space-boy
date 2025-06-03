@@ -510,7 +510,7 @@ export default function GameScreen({ playerName, avatarIndex, onGameOver }) {
                 {
                   // aspectRatio: "1440 / 1464",
                   // backgroundColor: getMapColor(),
-                  // backgroundImage: `url(/selectionbackground.jpg)`,
+                  // backgroundImage: `url(selectionbackground.jpg)`,
                   // backgroundSize: "cover",
                   // backgroundPosition: "center",
                   // transition: "background-color 0.5s ease",

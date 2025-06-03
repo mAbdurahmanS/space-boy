@@ -257,7 +257,7 @@ export default function LakeScene({ onBack }) {
           style={{
             // aspectRatio: "1440 / 1464",
             // backgroundColor: getMapColor(),
-            backgroundImage: `url(/lake.png)`,
+            backgroundImage: `url(lake.png)`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             // transition: "background-color 0.5s ease",

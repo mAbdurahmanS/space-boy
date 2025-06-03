@@ -202,7 +202,7 @@ export default function HomeScene({ onBack }) {
           style={{
             // aspectRatio: "1440 / 1464",
             // backgroundColor: getMapColor(),
-            backgroundImage: `url(/home.png)`,
+            backgroundImage: `url(home.png)`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             // transition: "background-color 0.5s ease",
