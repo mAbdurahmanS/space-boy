@@ -355,7 +355,7 @@ export default function LakeScene({ onBack }) {
 
         {/* Character */}
         <img
-          src={`/avatar1.png`}
+          src={`avatar1.png`}
           alt="Player Sprite"
           className="absolute z-20 object-contain"
           style={{

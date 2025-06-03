@@ -22,7 +22,7 @@ const GameStats = ({ playerName, avatarIndex }) => {
     <div className="w-full px-8 py-3 mb-6 rounded-xl flex flex-col md:flex-row items-center justify-between gap-4 bg-[#232263a8] shadow-[0_2px_24px_1px_#4b4af933] backdrop-blur-md border border-[#292979] animate-fade-in">
       <div className="flex items-center gap-4">
         <img
-          src={`/avatar${avatarIndex + 1}.png`}
+          src={`avatar${avatarIndex + 1}.png`}
           className="w-12 h-12 rounded-full border-2 border-[#525CEB] shadow-lg bg-white shrink-0"
           alt="Avatar"
         />

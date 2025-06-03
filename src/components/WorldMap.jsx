@@ -213,7 +213,7 @@ export default function WorlMap({ onSelectArea }) {
 
       {/* Character */}
       <img
-        src={`/avatar1.png`}
+        src={`avatar1.png`}
         alt="Player Sprite"
         className="absolute z-50 object-contain"
         style={{
